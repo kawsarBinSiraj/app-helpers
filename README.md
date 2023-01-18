@@ -1,1 +1,1 @@
-# app-helpers for react , next, vue
+# app-helpers for react , next
